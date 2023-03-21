@@ -1,0 +1,4 @@
+Hora: 23:59
+Combustible: [8, {'elektro': 104, 'lpg': 5382, 'cng': 571, 'andere': 208, 'diesel': 107826, 'hybrid': 280, 'benzin': 224037}, 'benzin']
+Marcas: [41, {'volvo': 3329, 'kia': 2557, 'nissan': 5043, 'lada': 225, 'daewoo': 543, 'land_rover': 771, 'fiat': 9680, 'alfa_romeo': 2349, 'honda': 2842, 'ford': 25593, 'mazda': 5697, 'rover': 490, 'chrysler': 1454, 'renault': 17989, 'skoda': 5647, 'seat': 7026, 'toyota': 4700, 'smart': 5254, 'jeep': 808, 'opel': 40166, 'peugeot': 11034, 'hyundai': 3649, 'subaru': 779, 'audi': 32897, 'mini': 3398, 'volkswagen': 79694, 'mercedes_benz': 35346, 'trabant': 592, 'suzuki': 2330, 'lancia': 484, 'mitsubishi': 3063, 'saab': 532, 'bmw': 40301, 'porsche': 2215, 'daihatsu': 807, 'sonstige_autos': 3985, 'citroen': 5186, 'jaguar': 621, 'chevrolet': 1847, 'dacia': 900}]
+Kilometros: [125618.56044408226, 150000.0, 40111.620164944565]

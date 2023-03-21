@@ -1,0 +1,12 @@
+Tiempo de ejecución de la fase de grupos asincrono: 1.2542505264282227 segundos 
+['CHA', 'BOS', 'DAL', 'GSW', 'LAL', 'MIA', 'ORL', 'NYK', 'SAS', 'POR', 'CLE', 'UTA', 'MIL', 'MIN', 'TOR', 'PHX']
+
+Tiempo de ejecución de la fase de grupos sincrono: 7.4934608936309814 segundos 
+['CHA', 'BOS', 'DAL', 'GSW', 'LAL', 'MIA', 'ORL', 'NYK', 'SAS', 'POR', 'CLE', 'UTA', 'MIL', 'MIN', 'TOR', 'PHX']
+
+Tiempo de ejecución de la fase de eliminatorias asincrono: 1.5844717025756836 segundos 
+['MIL', 'LAL', 'SAS']
+
+Tiempo de ejecución de la fase de eliminatorias sincrono: 5.293142557144165 segundos 
+['PHX', 'MIA', 'TOR']
+
